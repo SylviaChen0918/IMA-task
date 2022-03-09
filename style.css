@@ -6,6 +6,8 @@ h1{
 	background-color: black;
 	opacity: 0.6
 }
+h1{text-align: center;
+}
 .center{
 	display: block;
 	margin-left: auto;
